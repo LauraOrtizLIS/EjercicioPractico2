@@ -1,1 +1,1 @@
-
+planetas = ["Mercurio", "Venus", "Tierra"]
