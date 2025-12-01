@@ -1,1 +1,1 @@
-galaxias = ["Vía Láctea"]
+galaxias = ["Vía Láctea", "Galaxia2"]
