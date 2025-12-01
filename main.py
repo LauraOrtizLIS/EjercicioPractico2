@@ -1,4 +1,5 @@
 import random
+# Forzar conflicto
 from astronomia.aliens import aliens
 from astronomia.planetas import planetas
 from astronomia.galaxias import galaxias
