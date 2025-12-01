@@ -1,1 +1,1 @@
-
+galaxias = ["Vía Láctea"]
