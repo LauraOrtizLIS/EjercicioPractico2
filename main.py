@@ -1,5 +1,5 @@
 import random
-# Comentario temporal para forzar conflicto
+
 from astronomia.aliens import aliens
 from astronomia.planetas import planetas
 from astronomia.galaxias import galaxias
